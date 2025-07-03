@@ -4,5 +4,10 @@
     "schedule": [
       "at any time"
     ]
+  },
+  "lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true,
+    "automergeType": "branch"
   }
 }
