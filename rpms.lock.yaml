@@ -408,7 +408,7 @@ arches:
     size: 140422
     checksum: sha256:c63668294464345d424a04f83ea9388738ea8c0d86a28878357600507a622b6a
     name: device-mapper
-    evr: 1.02.204-3.fc42
+    evr: 10:1.02.202-3.el10
     sourcerpm: lvm2-2.03.30-3.fc42.src.rpm
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/42/Everything/x86_64/os/Packages/d/device-mapper-event-1.02.204-3.fc42.x86_64.rpm
     repoid: fedora
@@ -429,7 +429,7 @@ arches:
     size: 184364
     checksum: sha256:654f7d92f438a49521de8d7fdc9bde3776f3d36d6154b54481c0e47553454a35
     name: device-mapper-libs
-    evr: 1.02.204-3.fc42
+    evr: 10:1.02.202-3.el10
     sourcerpm: lvm2-2.03.30-3.fc42.src.rpm
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/42/Everything/x86_64/os/Packages/d/device-mapper-multipath-libs-0.10.0-5.fc42.x86_64.rpm
     repoid: fedora
@@ -940,7 +940,7 @@ arches:
     size: 1158189
     checksum: sha256:5a57a184ad7a709c655fdef507442ae67cb2fbfa2feb8d21fec6078c194a241a
     name: groff-base
-    evr: 1.23.0-8.fc42
+    evr: 1.23.0-10.el10
     sourcerpm: groff-1.23.0-8.fc42.src.rpm
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/42/Everything/x86_64/os/Packages/g/gsettings-desktop-schemas-48.0-1.fc42.x86_64.rpm
     repoid: fedora
@@ -1101,7 +1101,7 @@ arches:
     size: 46818
     checksum: sha256:f7394c728043f0f995164b6b8e49bd1673e8dacfe9aed5d1beec0e3ae6a42177
     name: jansson
-    evr: 2.14-2.fc42
+    evr: 2.14-3.el10
     sourcerpm: jansson-2.14-2.fc42.src.rpm
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/42/Everything/x86_64/os/Packages/j/jbigkit-libs-2.1-31.fc42.x86_64.rpm
     repoid: fedora
@@ -1430,7 +1430,7 @@ arches:
     size: 191634
     checksum: sha256:5c213e03789f17db1dc0a664cb9a1ccd5fa34ad0e72fffa94d2a6fa0f01ef6c7
     name: libbpf
-    evr: 2:1.5.0-2.fc42
+    evr: 2:1.5.0-3.el10
     sourcerpm: libbpf-1.5.0-2.fc42.src.rpm
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/releases/42/Everything/x86_64/os/Packages/l/libbsd-0.12.2-5.fc42.x86_64.rpm
     repoid: fedora
