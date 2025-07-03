@@ -23,7 +23,7 @@ spec:
   - name: revision
     value: '{{revision}}'
   - name: output-image
-    value: quay.io/fedora-konflux/jcapitao-redhat-com-tenant/test-renovate:{{revision}}
+    value: quay.io/konflux-fedora/jcapitao-redhat-com-tenant/test-renovate:{{revision}}
   - name: dockerfile
     value: Dockerfile
   - name: path-context
